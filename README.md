@@ -1,4 +1,10 @@
+![alt text](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
+
 <h2 align="left">Hi 👋! My name is Luis and I'm a Software Developer, Network Engineer  and free software freak, from Mexico</h2>
+
+<p>
+      I am passionate about technology and learning something new every day. I have specialized in mobile development, web development, and artificial intelligence. In addition, I am interested in the world of free software, in which I have       already started a personal project: the development of my own operating system based on ArchLinux.
+</p>
 
 ###
 
@@ -56,10 +62,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="luisgnzhdz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="/www.linkedin.com/in/luis-gonzález-60430824b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/LuisGnz20" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
