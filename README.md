@@ -1,6 +1,6 @@
 ![alt text](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 
-<h2 align="left">Hi 👋! My name is Luis and I'm a Software Developer, Network Engineer  and free software freak, from Mexico</h2>
+<h2 align="left">Hi 👋! My name is Luis and I'm a Software Developer and free software freak, from Mexico</h2>
 
 <p>
       I am passionate about technology and learning something new every day. I have specialized in mobile development, web development, and artificial intelligence. In addition, I am interested in the world of free software, in which I have       already started a personal project: the development of my own operating system based on ArchLinux.
