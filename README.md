@@ -77,10 +77,5 @@
 
 <br clear="both">
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LuisGH28/count.svg?"  />
-</div>
 
 ###
